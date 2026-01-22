@@ -1,94 +1,96 @@
 <h1 align="center">M. Shashank</h1>
 <p align="center">
-AI / ML • Full-Stack • Systems-Oriented Engineering
+<span>GTR-R34-Skyline</span> • Systems-First Engineer
+</p>
+
+<p align="center">
+High-performance systems • AI / ML • Full-Stack Engineering
 </p>
 
 <p align="center">
   <a href="https://portfolio1-steel-kappa.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/shashank-murari-rb26dett/">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=YOUR_ID">Scholar</a>
 </p>
 
 ---
 
-### About
-I build **product-driven systems** at the intersection of **AI, full-stack engineering, and real-world deployment**.  
-My work spans hackathons, applied research, and production-minded prototypes — with a bias toward **clarity, explainability, and impact**.
+## 🏎️ Platform Philosophy (GTR Mode)
 
-I care less about demos and more about **things that survive contact with reality**.
+The Nissan GTR wasn’t built to be flashy.  
+It was built to **outperform machines twice its price** through engineering discipline.
 
----
+That’s how I build software.
 
-### Current Focus
-- Applied Machine Learning (XGBoost, ANN, Explainability, SHAP)
-- AI-assisted platforms for governance, agriculture, and sustainability
-- Full-stack systems with clean backend boundaries
-- Research-to-product translation
+- Systems over scripts  
+- Explainability over magic  
+- Reliability over demos  
+- Performance where it matters  
 
 ---
 
-### Selected Work
-- **AgriHub**  
-  AI-enabled agricultural marketplace with mobile + backend integration  
-  *Expo (React Native), FastAPI, ML models*
+## ⚙️ Engineering Focus
 
-- **Beneficiary Credit Scoring – Direct Digital Lending**  
-  Explainable ML-based credit scoring using alternative data  
-  *TypeScript, ML pipelines, risk modeling*
+**Powertrain (Core Skills)**  
+Python · TypeScript · SQL · C  
 
-- **Jharkhand Tourism Platform**  
-  AI-powered eco-tourism and local service discovery system  
-  *TypeScript, scalable backend architecture*
+**Chassis (Frameworks)**  
+React · FastAPI · Node.js · Expo  
 
-- **VerdicAI**  
-  AI-driven legal & case-management concept with backlog clustering  
-  *ML + systems design focus*
+**Control Systems (AI / ML)**  
+XGBoost · ANN · SHAP · Model Evaluation  
+
+**Track Environment**  
+Linux · Docker · Git · Cloud-native deployment  
 
 ---
 
-### Research
-- *Machine Learning and Data Analytics Framework for Sustainable Environment*  
-- *AGRIHUB: Revolutionizing Indian Agriculture Using Machine Learning*  
-- *EcoTrack: Smart Waste Collection Navigator*  
-- *Live Assessment of Gesture Interpretation into Tamil Linguistics using ANN*
+## 🛠️ Garage (Selected Builds)
 
-Research is treated as **engineering input**, not an academic end.
+**AgriHub**  
+AI-enabled agricultural marketplace with mobile + backend integration  
+> Designed for scale, offline tolerance, and real-world constraints  
 
----
+**Beneficiary Credit Scoring System**  
+Explainable ML for direct digital lending  
+> Risk modeling with transparency, not black-box scoring  
 
-### Technical Stack
-**Languages**  
-Python · TypeScript · JavaScript · C · SQL
+**Jharkhand Tourism Platform**  
+AI-powered eco-tourism and service discovery  
+> Community-driven, sustainability-first architecture  
 
-**Frameworks & Tools**  
-React · FastAPI · Node.js · Expo · Docker · Git · Linux
-
-**ML / Data**  
-XGBoost · ANN · SHAP · Data Analysis · Model Evaluation
+**VerdicAI**  
+AI-assisted legal and case-management concept  
+> Backlog clustering and systems design focus  
 
 ---
 
-### Engineering Metrics
+## 🧠 Research as Engineering Input
+
+I treat research like an R&D division — useful only if it ships.
+
+- Machine Learning & Data Analytics for Sustainable Environment  
+- AGRIHUB: AI for Indian Agriculture  
+- EcoTrack: Smart Waste Collection Navigator  
+- Gesture Interpretation into Tamil Linguistics using ANN  
+
+---
+
+## 🔧 Build Principles
+
+- Architect for failure, not success  
+- Make systems debuggable before making them clever  
+- If it can’t be explained, it can’t be trusted  
+- Research without deployment is unfinished work  
+
+---
+
+## 🏁 Status
+
+Student by timeline.  
+Engineer by default.  
+Systems thinker by habit.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GTR-R34-Skyline&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTR-R34-Skyline&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### Philosophy
-- Build things that scale **conceptually first**
-- Prefer explainable systems over black boxes
-- Research should ship, or it’s incomplete
-- Clean architecture beats clever hacks
-
----
-
-<p align="center">
-  <sub>
-    Student today. Engineer by default. Systems thinker long-term.
-  </sub>
+<sub>GTR isn’t a car. It’s a design mindset.</sub>
 </p>
