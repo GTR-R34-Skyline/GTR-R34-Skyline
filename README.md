@@ -277,7 +277,7 @@ AI-powered news monitoring platform for threat detection.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### ⭐ If you find my projects interesting, feel free to star them!
 
