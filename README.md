@@ -260,15 +260,6 @@ AI-powered news monitoring platform for threat detection.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashank%20Murari-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashank-murari-b88180300)
 [![Email](https://img.shields.io/badge/Email-shashank.gtrv%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail)](mailto:shashank.gtrv@gmail.com)
 
----
-
-### 💬 Let's Talk About:
-- 🤖 AI & Machine Learning trends
-- 💻 System Design & Architecture
-- 🌐 Full-Stack Development
-- 🚀 Open Source Projects
-
----
 
 </div>
 
