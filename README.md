@@ -123,9 +123,9 @@ AI-powered news monitoring platform for threat detection.
 <td width="50%">
 
 ### 💻 **DSC Blueprint 2026**
-Award-winning hackathon project.
+ Official Hackathon website.
 - **Tech**: Full-Stack AI
-- **Status**: ✅ Hackathon Winner
+- **Status**: ✅ Hackathon was successfully conducted. 
 
 </td>
 </tr>
@@ -167,35 +167,31 @@ Award-winning hackathon project.
 |------------|---------|
 | 📚 **GitHub Member** | Since March 2024 |
 | 🎓 **Primary Language** | Python |
-| 🏅 **IIT Madras Hackathon** | Top 15 Placement |
-| 👥 **Google Developer Student Clubs** | Active Member |
+| 🏅 **IIT Madras Hackathon** | Finalist |
 | 🌟 **Open Source** | Active Contributor |
-| 📖 **Continuous Learning** | GATE CS Preparation |
 
 ---
 
 ## 💻 What I'm Good At
 
 ```
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  🤖 AI Systems Engineering                        │
-│     • Deep Learning • Model Optimization           │
-│     • Natural Language Processing • Computer Vision│
-│                                                    │
-│  💾 Distributed Systems & OS                      │
-│     • System Architecture • Scalability            │
-│     • Concurrent Programming • Performance Tuning  │
-│                                                    │
-│  🌐 Full-Stack Development                        │
-│     • Backend APIs • Frontend UX                   │
-│     • Database Design • DevOps                     │
-│                                                    │
-│  📊 Data Engineering                              │
-│     • Data Pipelines • ETL • Analytics             │
-│     • Big Data Processing                          │
-│                                                    │
-└────────────────────────────────────────────────────┘
+                                                   
+ 🤖 AI Systems Engineering                        
+     • Deep Learning • Model Optimization           
+     • Natural Language Processing • Computer Vision
+                                                    
+  💾 Distributed Systems & OS                      
+     • System Architecture • Scalability            
+     • Concurrent Programming • Performance Tuning  
+                                                    
+  🌐 Full-Stack Development                        
+     • Backend APIs • Frontend UX                  
+     • Database Design • DevOps                     
+                                                    
+  📊 Data Engineering                              
+     • Data Pipelines • ETL • Analytics             
+     • Big Data Processing                          
+                                                    
 ```
 
 ---
@@ -283,7 +279,7 @@ Award-winning hackathon project.
 - 📚 Explored **OS fundamentals** and distributed systems
 - ⭐ Active **open-source contributor**
 - 🏅 **IIT Madras Hackathon Top 15** participant in 2025
-- - 🏅 **IIT Madras Hackathon Top 10** participant in 2026
+- 🏅 **IIT Madras Hackathon Top 10** participant in 2026
 - 💡 Passionate about **turning ideas into reality**
 - ☕ Coffee-driven developer
 
