@@ -23,7 +23,6 @@ I'm a passionate developer and AI enthusiast dedicated to building practical, in
 ### Currently:
 - 🚀 Building AI-powered applications
 - 💻 Exploring Operating Systems & Distributed Systems  
-- 📚 Preparing for GATE CS
 - 🤝 Contributing to open-source projects
 - 🔬 Researching AI Operating Systems
 
