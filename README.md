@@ -278,20 +278,11 @@ AI-powered news monitoring platform for threat detection.
 - 📚 Explored **OS fundamentals** and distributed systems
 - ⭐ Active **open-source contributor**
 - 🏅 **IIT Madras Hackathon Top 15** participant in 2025
-- 🏅 **IIT Madras Hackathon Top 10** participant in 2026
+- 🏅 **IIT Madras Hackathon Finalist** in 2026
 - 💡 Passionate about **turning ideas into reality**
 - ☕ Coffee-driven developer
 
----
 
-## 📈 Growth Journey
-
-```
-2024 (Start)  ████░░░░░░░░░░░░░░░░ 20%
-2025 (Mid)    ████████░░░░░░░░░░░░ 45%
-2026 (Now)    ████████████░░░░░░░░ 70%
-Future        ██████████████████░░ 95%+ 🚀
-```
 
 ---
 
