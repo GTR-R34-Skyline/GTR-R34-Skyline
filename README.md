@@ -32,7 +32,7 @@ I'm a passionate developer and AI enthusiast dedicated to building practical, in
 
 ## 🛠️ Technology Arsenal
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
