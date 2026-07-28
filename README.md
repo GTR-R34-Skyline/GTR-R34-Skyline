@@ -110,15 +110,64 @@ An ambitious project to build the next generation of intelligent operating syste
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Achievements
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GTR-R34-Skyline&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+### 🔥 Contribution Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GTR-R34-Skyline&layout=compact&theme=dark)
+| Stat | Count |
+|------|-------|
+| **Total Commits** | 500+ |
+| **Public Repos** | 12+ |
+| **Followers** | 420+ |
+| **Following** | 35+ |
+
+### 🏆 Achievements
+
+![GitHub Badge](https://img.shields.io/badge/🔥-Active%20Developer-FF6B6B?style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/⭐-Open%20Source%20Contributor-FFD21E?style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/📚-Continuous%20Learner-4ECDC4?style=for-the-badge)
+
+### 💻 Code Distribution
+
+**Python** • **C++** • **JavaScript** • **TypeScript** • **Java**
+
+```
+Python      ████████████████░░░░ 60%
+JavaScript  ███████░░░░░░░░░░░░░ 25%
+C++         ███░░░░░░░░░░░░░░░░░ 10%
+Other       ░░░░░░░░░░░░░░░░░░░░ 5%
+```
 
 </div>
+
+---
+
+## 🎯 Recent Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Latest Work
+- Building AI OS Framework
+- Optimizing ML Pipelines
+- Contributing to OSS Projects
+- GATE CS Preparation
+
+</td>
+<td width="50%">
+
+### 🎓 Achievements
+- ⭐ 500+ GitHub Contributions
+- 🏅 12+ Projects Published
+- 📖 Active Open Source Dev
+- 🎯 Consistent Learner
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,6 +178,28 @@ An ambitious project to build the next generation of intelligent operating syste
 - **Advanced Distributed Systems** – Consensus algorithms, distributed transactions
 - **OS Kernel Development** – Low-level system programming and optimization
 - **Full-Stack AI Applications** – Integrating ML models into production systems
+
+---
+
+## 📅 My Journey
+
+```
+2024  →  🚀 AI Operating System Research | GATE CS Prep
+         │
+         └─ Contributing to open-source ML projects
+         
+2023  →  🤖 Verdic AI | EcoTrack Development
+         │
+         └─ Building production-grade applications
+         
+2022  →  💻 AgriHub Launch | Tech Stack Expansion
+         │
+         └─ Exploring AI/ML fundamentals
+         
+2021  →  🌱 Foundation Years | Python Mastery
+         │
+         └─ Starting open-source journey
+```
 
 ---
 
@@ -187,6 +258,53 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 ---
 
+## ⚙️ My Development Workflow
+
+```
+IDEATION → DESIGN → PROTOTYPE → BUILD → TEST → DEPLOY → ITERATE
+
+    ↓         ↓         ↓        ↓       ↓       ↓       ↓
+  Sketch    Architecture   Mock-ups  Code   Unit   Docker  Review
+           Diagrams                     Tests  Image   Code
+```
+
+### Daily Workflow
+```
+Morning:    Coffee ☕ + GitHub Review + News
+Midday:     Deep Work on Core Features 💻
+Afternoon:  Testing, Code Reviews, Documentation 📝
+Evening:    Learning, Research, Side Projects 🔬
+```
+
+---
+
+## 🎮 Fun Facts About Me
+
+- 🎯 **Debugged a 1000-line AI model** to improve accuracy by 15%
+- 🚗 **Car Enthusiast** – GTR-R34-Skyline fan (username inspired!)
+- 📚 **Read 20+ papers** on distributed systems this year
+- 🏃 **Night Owl Coder** – Best ideas at 2 AM
+- ☕ **Coffee Driven Developer** – Python + Coffee = ❤️
+- 🎵 **Code while listening to lo-fi beats**
+
+---
+
+## 📖 Resources & Recommendations
+
+### Recommended Learning Paths
+- **AI/ML Beginners** – Start with Fast.ai
+- **Distributed Systems** – Designing Data-Intensive Applications (DDIA)
+- **OS Development** – OSDev.org & MINIX 3
+- **System Design** – Grokking the System Design Interview
+
+### Favorite Tools
+- **IDEs**: VS Code, PyCharm, IntelliJ
+- **Version Control**: GitHub, Git CLI
+- **Documentation**: Markdown, Notion
+- **Communication**: Discord, Slack, Email
+
+---
+
 ## 🎁 How I Can Help
 
 - 🤖 **AI/ML Projects** – Model development, training, optimization
@@ -199,6 +317,14 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 <div align="center">
 
+---
+
+## 📊 Visitor Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=GTR-R34-Skyline&style=flat-square&color=blue)
+
+---
+
 ### ⭐ If you find my work interesting, don't forget to star my repositories!
 
 **Currently**: Building intelligent systems | Preparing for GATE CS | Contributing to Open Source
@@ -207,6 +333,18 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 ---
 
-<sub>Last Updated: 2024 | Made with ❤️ by Shashank</sub>
+### 🤝 Open To
+
+- 💼 **Collaborations** on interesting projects
+- 🎓 **Mentoring** aspiring developers
+- 🔬 **Research** discussions on AI/Systems
+- 💬 **Networking** with tech enthusiasts
+- 📢 **Speaking** at tech events & meetups
+
+---
+
+<sub>Last Updated: July 2024 | Made with ❤️ by Shashank Murari</sub>
+
+<sub>⚡ *"Code is poetry written for computers to execute and humans to understand"* ⚡</sub>
 
 </div>
